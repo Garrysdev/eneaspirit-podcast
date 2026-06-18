@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EneaSpirit Podcast</title>
+    <link>https://eneaspirit.com</link>
+    <language>pt-PT</language>
+    <description><![CDATA[Uma biblioteca de 16.000 obras de espiritualidade e ocultismo — destilada em episódios semanais, TEMA a TEMA. Eneagrama, gnose, alquimia e autoconhecimento, na voz da Bibliotecária.]]></description>
+    <itunes:author>EneaSpirit</itunes:author>
+    <itunes:summary><![CDATA[A espiritualidade da matéria: do chumbo ao ouro, semana a semana.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://garrysdev.github.io/eneaspirit-podcast/covers/PODCAST-COVER-W25.png"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:owner>
+      <itunes:name>EneaSpirit</itunes:name>
+      <itunes:email>geral@eneaspirit.com</itunes:email>
+    </itunes:owner>
+    <image><url>https://garrysdev.github.io/eneaspirit-podcast/covers/PODCAST-COVER-W25.png</url><title>EneaSpirit Podcast</title><link>https://eneaspirit.com</link></image>
+    <item>
+      <title>Tipo 2: O Ajudante | EneaSpirit Podcast</title>
+      <description><![CDATA[Mergulhamos no Tipo 2 do Eneagrama — O Ajudante. Motivações e medos centrais, o lado sombra e o caminho para o burnout, a integração com o Tipo 8 (limites saudáveis), uma prática de 5 minutos e a ligação gnóstica. A lição: "eu importo, simplesmente por existir." — a Bibliotecária]]></description>
+      <itunes:summary><![CDATA[Mergulhamos no Tipo 2 do Eneagrama — O Ajudante. Motivações e medos centrais, o lado sombra e o caminho para o burnout, a integração com o Tipo 8 (limites saudáveis), uma prática de 5 minutos e a ligação gnóstica. A lição: "eu importo, simplesmente por existir." — a Bibliotecária]]></itunes:summary>
+      <enclosure url="https://garrysdev.github.io/eneaspirit-podcast/audio/tipo2-o-ajudante.mp3" length="10215404" type="audio/mpeg"/>
+      <guid isPermaLink="false">eneaspirit-w25-tipo2</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 GMT</pubDate>
+      <itunes:duration>00:08:30</itunes:duration>
+      <itunes:image href="https://garrysdev.github.io/eneaspirit-podcast/covers/PODCAST-COVER-W25.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EneaSpirit BOOKS #1 — A Sabedoria do Eneagrama</title>
+      <description><![CDATA[Estreia da secção EneaSpirit BOOKS: cada semana abrimos UM livro da biblioteca. Episódio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson — a simbologia do Eneagrama, Essência vs Personalidade, o mapa Paixão→Fixação→Ideia Superior→Virtude e um spotlight no Tipo 2.]]></description>
+      <itunes:summary><![CDATA[Estreia da secção EneaSpirit BOOKS: cada semana abrimos UM livro da biblioteca. Episódio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson — a simbologia do Eneagrama, Essência vs Personalidade, o mapa Paixão→Fixação→Ideia Superior→Virtude e um spotlight no Tipo 2.]]></itunes:summary>
+      <enclosure url="https://garrysdev.github.io/eneaspirit-podcast/audio/books-1-sabedoria-do-eneagrama.mp3" length="12168044" type="audio/mpeg"/>
+      <guid isPermaLink="false">eneaspirit-w25-books-1</guid>
+      <pubDate>Mon, 15 Jun 2026 07:05:00 GMT</pubDate>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:image href="https://garrysdev.github.io/eneaspirit-podcast/covers/BOOKS-COVER-W25.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
